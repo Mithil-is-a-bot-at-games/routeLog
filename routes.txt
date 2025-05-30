@@ -1,0 +1,30 @@
+2023-07-23: Dallas TX to Miami FL; Auto Parts
+2023-11-15: Atlanta GA to Chicago IL; Electronics
+2024-01-10: Los Angeles CA to Denver CO; Furniture
+2024-03-05: Houston TX to New Orleans LA; Food Products
+2024-04-18: Phoenix AZ to Salt Lake City UT; Construction Materials
+2024-06-22: Seattle WA to Portland OR; Paper Goods
+2024-07-30: Miami FL to Charlotte NC; Apparel
+2024-08-14: Detroit MI to Cleveland OH; Automotive Components
+2024-09-25: Boston MA to Philadelphia PA; Pharmaceuticals
+2024-10-12: Minneapolis MN to Omaha NE; Agricultural Supplies
+2024-11-08: San Francisco CA to Las Vegas NV; Electronics
+2024-12-19: Kansas City MO to St. Louis MO; Machinery
+2025-01-28: Charlotte NC to Richmond VA; Household Goods
+2025-02-17: New York NY to Washington DC; Food Products
+2025-03-03: Indianapolis IN to Louisville KY; Chemicals
+2025-03-28: Columbus OH to Pittsburgh PA; Steel
+2025-04-09: Nashville TN to Memphis TN; Textiles
+2025-04-20: Albuquerque NM to El Paso TX; Electronics
+2025-04-30: Jacksonville FL to Tampa FL; Pharmaceuticals
+2025-05-05: San Diego CA to Phoenix AZ; Auto Parts
+2025-05-10: Portland OR to Boise ID; Paper Goods
+2025-05-12: Salt Lake City UT to Cheyenne WY; Construction Materials
+2025-05-15: Dallas TX to Oklahoma City OK; Food Products
+2025-05-16: Miami FL to Atlanta GA; Apparel
+2025-05-17: Chicago IL to Detroit MI; Automotive Components
+2025-05-18: Philadelphia PA to New York NY; Electronics
+2025-05-19: Omaha NE to Kansas City MO; Machinery
+2025-05-20: Richmond VA to Charlotte NC; Household Goods
+2025-05-21: Las Vegas NV to San Francisco CA; Chemicals
+2025-05-22: Memphis TN to Nashville TN; Textile
